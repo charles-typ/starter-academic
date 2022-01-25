@@ -6,7 +6,7 @@ title: Yupeng Tang
 superuser: true
 
 # Role/position/tagline
-role: First-year PhD student @ Yale University
+role: Second-year PhD student @ Yale University
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -74,6 +74,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a first-year PhD student at [Computer Systems Lab](http://csl.yale.edu/) at [Yale University](https://www.yale.edu), under the supervision of [Professor Anurag Khandelwal](http://anuragkhandelwal.com).My research interests include distributed systems, serverless computing and memory disaggregation. Prior to my PhD study, I had several exciting research experiences at Xi'an Jiaotong University, UC Berkeley, Microsoft Research Asia and Xilinx Asia Research lab, working with amazing groups of people.  
+I am a second-year PhD student at [Computer Systems Lab](http://csl.yale.edu/) at [Yale University](https://www.yale.edu), under the supervision of [Professor Anurag Khandelwal](http://anuragkhandelwal.com).My research interests include distributed systems, serverless computing and memory disaggregation. Prior to my PhD study, I had several exciting research experiences at Xi'an Jiaotong University, UC Berkeley, Microsoft Research Asia and Xilinx Asia Research lab, working with amazing groups of people.  
 
 
