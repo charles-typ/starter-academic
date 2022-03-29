@@ -51,7 +51,8 @@ abstract: Memory disaggregation promises transparent elasticity, high resource u
   unit for rack-scale disaggregation. MIND enables transparent resource elasticity
   while matching the performance of prior memory disaggregation proposals for real-world
   workloads.
-publication: '*Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles*'
+publication: '*Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles(SOSP)*'
 url_pdf: https://doi.org/10.1145/3477132.3483561
+url_code: https://github.com/Yale-NeRD/mind
 doi: 10.1145/3477132.3483561
 ---
