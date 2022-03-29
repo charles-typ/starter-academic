@@ -1,0 +1,18 @@
+@inproceedings{10.1145/3492321.3527539,
+ abstract = {Stateful serverless analytics can be enabled using a remote memory system for inter-task communication, and for storing and exchanging intermediate data. However, existing systems allocate memory resources at job granularity---jobs specify their memory demands at the time of the submission; and, the system allocates memory equal to the job's demand for the entirety of its lifetime. This leads to resource underutilization and/or performance degradation when intermediate data sizes vary during job execution.This paper presents Jiffy, an elastic far-memory system for stateful serverless analytics that meets the instantaneous memory demand of a job at seconds timescales. Jiffy efficiently multiplexes memory capacity across concurrently running jobs, reducing the overheads of reads and writes to slower persistent storage, resulting in 1.6 -- 2.5× improvements in job execution time over production workloads. Jiffy implementation currently runs on Amazon EC2, enables a wide variety of distributed programming models including MapReduce, Dryad, StreamScope, and Piccolo, and natively supports a large class of analytics applications on AWS Lambda.},
+ address = {New York, NY, USA},
+ author = {Khandelwal, Anurag and Tang, Yupeng and Agarwal, Rachit and Akella, Aditya and Stoica, Ion},
+ booktitle = {Proceedings of the Seventeenth European Conference on Computer Systems},
+ doi = {10.1145/3492321.3527539},
+ isbn = {9781450391627},
+ keywords = {serverless computing, data analytics, far-memory, function-as-a-service},
+ location = {Rennes, France},
+ numpages = {17},
+ pages = {697–713},
+ publisher = {Association for Computing Machinery},
+ series = {EuroSys '22},
+ title = {Jiffy: Elastic Far-Memory for Stateful Serverless Analytics},
+ url = {https://doi.org/10.1145/3492321.3527539},
+ year = {2022}
+}
+
