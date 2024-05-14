@@ -6,7 +6,7 @@ title: Yupeng Tang
 superuser: true
 
 # Role/position/tagline
-role: Second-year PhD student @ Yale University
+role: Final-year PhD student @ Yale University
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,14 +14,14 @@ organizations:
   url: "http://www.yale.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed systems, cloud computing and networking.
+bio: My research interests include distributed systems, memory disaggregation and hardware accelerators.
 
 # Interests to show in About widget
 interests:
 - Distributed systems
-- Serverless computing
 - Memory disaggregation
-- Networking
+- Hardware accelerators
+- Serverless computing
 
 # Education to show in About widget
 education:
@@ -31,7 +31,7 @@ education:
   #  year: 2012
   - course: PhD student in Computer Science
     institution: Yale University
-    year: 2020
+    year: 2020-2024
   - course: Exchange student in Computer Science
     institution: University of California, Berkeley
     year: 2018 - 2019
@@ -56,9 +56,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yupengtang
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/charles.typ
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -74,6 +71,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a second-year PhD student at [Computer Systems Lab](http://csl.yale.edu/) at [Yale University](https://www.yale.edu), under the supervision of [Professor Anurag Khandelwal](http://anuragkhandelwal.com).My research interests include distributed systems, serverless computing and memory disaggregation. Prior to my PhD study, I had several exciting research experiences at Xi'an Jiaotong University, UC Berkeley, Microsoft Research Asia and Xilinx Asia Research lab, working with amazing groups of people.  
+I am a final-year PhD student in the [Computer Systems Lab](http://csl.yale.edu/) at [Yale University](https://www.yale.edu), working under the supervision of [Professor Anurag Khandelwal](http://anuragkhandelwal.com). My research interests include distributed systems, memory disaggregation, serverless computing and hardware accelerators. 
+
+I have gained value experience as a research intern at several prestigious institutions, including [Bytedance, Inc.](https://www.bytedance.com/en/)(2023, 2024), [Xilinx Asia Research lab](https://www.xilinx.com/products/silicon-devices/fpga.html)(2020), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)(2019), and [RISELab at UC Berkeley](https://rise.cs.berkeley.edu/)(2018, 2019).
 
 
