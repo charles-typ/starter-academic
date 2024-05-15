@@ -75,4 +75,8 @@ I am a final-year PhD student in the [Computer Systems Lab](http://csl.yale.edu/
 
 I have gained value experience as a research intern at several prestigious institutions, including [Bytedance, Inc.](https://www.bytedance.com/en/)(2023, 2024), [Xilinx Asia Research lab](https://www.xilinx.com/products/silicon-devices/fpga.html)(2020), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)(2019), and [RISELab at UC Berkeley](https://rise.cs.berkeley.edu/)(2018, 2019).
 
+_____I am actively seeking opportunities in industrial research labs and startups, with an expected start date in October 2024. Please feel free to reach out if you have any openings._____
+
+
+
 
