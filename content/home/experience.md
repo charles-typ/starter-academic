@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 100
 
-title: Experience
+title: Work Experience
 subtitle:
 
 # Date format for experience
@@ -22,14 +22,30 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Phd Student
-    company: Computer Systems Lab @ Yale
-    company_url: 'https://csl.yale.edu/'
-    company_logo: Yale_University_logo
-    location: New Haven, CT
-    date_start: '2020-08-20'
+  - title: Research Intern
+    company: Infrastructure Lab @ Bytedance
+    company_url: 'https://bytedance.com'
+    company_logo: ByteDance
+    location: Santa Clara, CA
+    date_start: '2024-05-28'
     date_end: ''
-    description: |2-
+    description: 
+  - title: Research Intern
+    company: Infrastructure Lab @ Bytedance
+    company_url: 'https://bytedance.com'
+    company_logo: ByteDance
+    location: Santa Clara, CA
+    date_start: '2023-05-28'
+    date_end: '2023-10-10'
+    description: 
+  #- title: Phd Student
+  #  company: Computer Systems Lab @ Yale
+  #  company_url: 'https://csl.yale.edu/'
+  #  company_logo: Yale
+  #  location: New Haven, CT
+  #  date_start: '2020-08-20'
+  #  date_end: ''
+  #  description: 
   - title: Research Intern
     company: Xilinx Asia Research
     company_url: 'https://www.xilinx.com/'

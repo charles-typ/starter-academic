@@ -47,11 +47,11 @@ abstract: Memory disaggregation promises transparent elasticity, high resource u
   logic in the network fabric. We find that centralizing memory management in the
   network permits bandwidth and latency-efficient realization of in-network cache
   coherence protocols, while programmable switch ASICs support other memory management
-  logic at line-rate. We realize these insights into MIND1, an in-network memory management
+  logic at line-rate. We realize these insights into MIND, an in-network memory management
   unit for rack-scale disaggregation. MIND enables transparent resource elasticity
   while matching the performance of prior memory disaggregation proposals for real-world
   workloads.
-publication: '*Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles(SOSP)*'
+publication: '*Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles(SOSP 21)*'
 url_pdf: https://doi.org/10.1145/3477132.3483561
 url_code: https://github.com/Yale-NeRD/mind
 doi: 10.1145/3477132.3483561

@@ -52,7 +52,7 @@ abstract: Stateful serverless analytics can be enabled using a remote memory sys
   Jiffy implementation currently runs on Amazon EC2, enables a wide variety of distributed
   programming models including MapReduce, Dryad, StreamScope, and Piccolo, and natively
   supports a large class of analytics applications on AWS Lambda.
-publication: '*Proceedings of the Seventeenth European Conference on Computer Systems(EuroSys)*'
+publication: '*Proceedings of the Seventeenth European Conference on Computer Systems(EuroSys 22)*'
 url_pdf: https://doi.org/10.1145/3492321.3527539
 url_code: https://github.com/resource-disaggregation/jiffy
 doi: 10.1145/3492321.3527539
