@@ -5,6 +5,7 @@ title: "PULSE: Accelerating Distributed Pointer-Traversals on Disaggregated Memo
 authors:
 - admin
 - Seung-seob Lee
+- Abhishek Bhattacharjee
 - Anurag Khandelwal
 tags:
 - '"Memory disaggregation"'
