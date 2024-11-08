@@ -6,15 +6,15 @@ title: Yupeng Tang
 superuser: true
 
 # Role/position/tagline
-role: Final-year PhD student @ Yale University
+role: Research Scientist @ Meta
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Yale University
-  url: "http://www.yale.edu/"
+- name: Meta
+  url: "https://about.meta.com/company-info/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed systems, memory disaggregation and hardware accelerators.
+bio: My research interests include distributed systems, software-hardware co-design and hardware accelerators.
 
 # Interests to show in About widget
 interests:
@@ -71,11 +71,11 @@ email: ""
 highlight_name: true
 ---
 
-I am a final-year PhD student in the [Computer Systems Lab](http://csl.yale.edu/) at [Yale University](https://www.yale.edu), working under the supervision of [Professor Anurag Khandelwal](http://anuragkhandelwal.com). My research interests include distributed systems, memory disaggregation, serverless computing and hardware accelerators. 
+I am a research scientist at [Meta](https://about.meta.com/company-info/). Previously, I finished my PhD at [Yale University](https://www.yale.edu), working under the supervision of [Professor Anurag Khandelwal](http://anuragkhandelwal.com). My research interests include distributed systems, memory disaggregation, software-hardware co-design.
 
 I have gained value experience as a research intern at several prestigious institutions, including [Bytedance, Inc.](https://www.bytedance.com/en/)(2023, 2024), [Xilinx Asia Research lab](https://www.xilinx.com/products/silicon-devices/fpga.html)(2020), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)(2019), and [RISELab at UC Berkeley](https://rise.cs.berkeley.edu/)(2018, 2019).
 
-_____I will be joining Meta as a Research Scientist in November 2024._____
+
 
 
 
